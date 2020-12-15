@@ -6,7 +6,7 @@ let playerChoice;
 let computerChoice;
 let matchWinner;
 
-// To store match result
+// To store match results
 let resultsOfMatch = [];
 
 const ROCK = 'rock';
